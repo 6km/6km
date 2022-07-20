@@ -19,4 +19,4 @@ I'm Mohammed, a 15 years old developer from Egypt 🇪🇬.
 ## Contact Methods
 
 - gsft22221@gmail.com
-- [E3saR.rg#4600](https://discordapp.com/users/737008889194741810) on Discord
+- [E3saR#4600](https://discordapp.com/users/737008889194741810) on Discord
