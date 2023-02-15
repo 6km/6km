@@ -4,10 +4,9 @@
 
 ## Hey! 👋 
 
-I'm Mohammed, a 15 years old developer from Egypt 🇪🇬.
+I'm Mohammed, a 16 years old developer from Egypt 🇪🇬.
 
 - Contributor @ **React Play** ⚛
-- Full-stack Developer @ **Vallt** 🔮
 
 ## Skills
 
