@@ -6,7 +6,7 @@
 
 I'm Mohammed, a 16 years old developer from Egypt 🇪🇬.
 
-- Contributor @ **React Play** ⚛
+- Core Team Member @ **React Play** ⚛
 
 ## Skills
 
