@@ -10,7 +10,7 @@ I'm Mohammed, a 16 years old developer from Egypt 🇪🇬.
 
 ## Skills
 
-- 👨‍💻 JavaScript, JavaScript
+- 👨‍💻 Javascript, Typescript
 - 📦 React, Next
 - 🎨 SCSS, CSS
 - 📀 MongoDB
