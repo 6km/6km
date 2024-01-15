@@ -2,18 +2,19 @@
   <img src="./name.svg" />
 </div>
 
-## Hey! 👋 
+### Hey there 👋,
 
-I'm Mohammed, a 16 years old developer from Egypt 🇪🇬.
+I'm Mohammed, a 17-year-old developer from Egypt 🇪🇬.
 
 - Core Team Member @ **React Play** ⚛
 
-## Skills
+### Skillz 🤓
 
 - 👨‍💻 Javascript, Typescript
 - 📦 React, Next
 - 🎨 SCSS, CSS
 - 📀 MongoDB
+- and more..
 
 ## Contact Methods
 
