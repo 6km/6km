@@ -1,22 +1,26 @@
 <div align="center">
-  <img src="./name.svg" />
+  <img src="./banner.svg" />
 </div>
 
-### Hey there 👋,
+Hey, fellow coder! 👋
 
-I'm Mohammed, a 17-year-old developer from Egypt 🇪🇬.
+I'm Mohammed Taha, a 17-year-old developer from Egypt 🇪🇬.
 
 - Core Team Member @ **React Play** ⚛
 
-### Skillz 🤓
 
-- 👨‍💻 Javascript, Typescript
-- 📦 React, Next
+## Skillz 🤓
+
+- 👨‍💻 JavaScript, TypeScript
+- 📦 React, Next.js
 - 🎨 SCSS, CSS
 - 📀 MongoDB
-- and more..
+- and more... (I'm always learning!)
 
-## Contact Methods
 
-- gsft22221@gmail.com
-- [E3saR#4600](https://discordapp.com/users/737008889194741810) on Discord
+## Get in Touch!
+
+Have a question or just want to chat about coding (or anything else)? Feel free to reach out!
+
+- Email: gsft22221@gmail.com
+- Discord: [E3saR#4600](https://discordapp.com/users/737008889194741810)
