@@ -8,7 +8,6 @@ I'm Mohammed Taha, a 17-year-old developer from Egypt 🇪🇬.
 
 - Core Team Member @ **React Play** ⚛
 
-
 ## Skillz 🤓
 
 - 👨‍💻 JavaScript, TypeScript
