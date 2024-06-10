@@ -2,7 +2,7 @@
   <img src="./banner.svg" />
 </div>
 
-Hey, fellow coder! 👋
+Hey, coder! 👋
 
 I'm Mohammed Taha, a 17-year-old developer from Egypt 🇪🇬.
 
