@@ -19,7 +19,7 @@ I'm Mohammed Taha, a 17-year-old developer from Egypt 🇪🇬.
 
 ## Support
 
-<a target="_blank" href="https://ko-fi.com/taha"><img height="96px" src="https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_white.png" /></a>
+<a href="https://ko-fi.com/taha"><img height="96px" src="https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_white.png" /></a>
 
 ### Get in Touch!
 
