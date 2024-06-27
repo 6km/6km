@@ -1,4 +1,4 @@
-<div align="center">
+<div align="centerr">
 <!--<img src="./banner.svg" />-->
 Hey! I'm Mohammed Taha!
 
@@ -7,10 +7,8 @@ Hey! I'm Mohammed Taha!
 Core Team Member @ **React Play** ⚛
 </div>
 
-<br />
-
-<p align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?theme=light&perline=8&i=html,css,js,ts,sass,react,next,redux,zustand,nodejs,express,hono,mongo,supabase,firebase" />
+<p align="centerr">
+    <img src="https://go-skill-icons.vercel.app/api/icons?theme=light&perline=10&i=html,css,js,ts,sass,tailwind,react,next,redux,vite,electron,nodejs,express,hono,mongo,supabase,firebase,git,_,_,vscode,figma,pnpm,yarn,vercel" />
 </p>
 
 ## Support
