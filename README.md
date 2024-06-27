@@ -10,7 +10,7 @@ Core Team Member @ **React Play** ⚛
 <br />
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?perline=8&i=html,css,js,ts,sass,react,next,redux,zustand,nodejs,express,hono,mongo,supabase,firebase" />
+    <img src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,js,ts,sass,react,next,redux,zustand,nodejs,express,hono,mongo,supabase,firebase" />
 </p>
 
 ## Support
