@@ -8,7 +8,7 @@ Core Team Member @ **React Play** ⚛
 </div>
 
 <p align="centerr">
-    <img src="https://go-skill-icons.vercel.app/api/icons?theme=light&perline=10&i=html,css,js,ts,sass,tailwind,react,next,redux,vite,electron,nodejs,express,hono,mongo,supabase,firebase,git,_,_,vscode,figma,pnpm,yarn,vercel" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?theme=light&perline=10&i=html,css,js,ts,sass,tailwind,react,next,redux,vite,electron,nodejs,express,hono,mongo,supabase,firebase,_,_,_,pnpm,yarn,git,vscode,figma,vercel" />
 </p>
 
 ## Support
