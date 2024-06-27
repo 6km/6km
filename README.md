@@ -1,8 +1,8 @@
 <div align="center">
 <!--<img src="./banner.svg" />-->
-Hey, coder! 👋
+Hey! I'm Mohammed Taha!
 
-I'm Mohammed Taha, a 17-year-old developer from Egypt 🇪🇬.
+17-year-old developer from Egypt 🇪🇬.
 
 Core Team Member @ **React Play** ⚛
 </div>
