@@ -2,7 +2,7 @@
 <!--<img src="./banner.svg" />-->
 Hey! I'm Mohammed Taha!
 
-17-year-old developer from Egypt 🇪🇬.
+18-year-old developer from Egypt 🇪🇬.
 
 Core Team Member @ **React Play** ⚛
 </div>
