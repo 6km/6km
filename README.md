@@ -4,7 +4,7 @@ Hey! I'm Mohammed Taha!
 
 18-year-old muslim developer from Egypt.
 
-Core Team Member @ **React Play** ⚛
+Previously Core Team Member @ **React Play** ⚛
 </div>
 
 <p align="centerr">
